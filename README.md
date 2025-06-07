@@ -9,14 +9,13 @@ Bot WhatsApp berbasis Node.js menggunakan Baileys MD.
 npm install
 npm start
 ```
-*yyyy*
-
-_gecec_
-`tutuc`
+*Rehan*
+_Rehan_
+`Rehan`
 `
-teheh
+Rehan
 `
-``gege``
+``Rehan``
 ``
-tutuc
+Rehan
 ``
